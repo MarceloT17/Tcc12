@@ -1,6 +1,5 @@
-# Tcc12
+# Tcc12 - Python
 
-Tcc - Python
 Tcccode12 - Código principal, com a resolução da equação
 
 Tcccode12_Num - Solução Numérica 1D, baseada no código principal
